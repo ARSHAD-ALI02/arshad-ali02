@@ -1,4 +1,10 @@
-# 💫 About Me:
+<h1 align="center"> Hey, I'm Arshad Ali </h1>
+<h3 align="center"> ---------- </h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arshad-ali02&label=Profile%20views&color=0e75b6&style=flat" alt="arshad-ali02"/>
+</p>
+  
 I'm currently working on Suspicious Activity Detection Model.<br>I'm currently learning PHP, MySQL, and Python.<br>I'm looking to collaborate on my Activity detection model.<br><br><br>
 
 
