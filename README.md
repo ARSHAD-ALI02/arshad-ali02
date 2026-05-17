@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=arshad-ali02&label=Profile%20views&color=0e75b6&style=flat" alt="arshad-ali02"/>
 </p>
   
-I'm currently working on a Multi-Vendor Gym Management System.<br>I'm currently learning PHP, MySQL, and Python.<br>I'm looking to collaborate on my Activity detection model.<br><br><br>
+I'm currently working on a Multi-Vendor Gym Management System.<br>I'm currently learning PHP, MySQL, and Python.<br>I'm looking to collaborate with Open Source Projects for real-world projects.<br><br><br>
 
 
 ## 🌐 Socials:
