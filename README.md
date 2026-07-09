@@ -126,11 +126,11 @@ const arshad = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshad-ali02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARSHAD-ALI02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=arshad-ali02&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ARSHAD-ALI02&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 </p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-ali02&theme=react-dark&bg_color=0d1117&color=14B8FF&line=14B8FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
