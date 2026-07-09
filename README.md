@@ -24,13 +24,20 @@
 👋 About Me
 
 const arshad = {
+
   role: "Computer Science Student (5th Semester)",
+  
   foundation: ["C", "C++", "PHP", "MySQL"],
+  
   currentFocus: ["Python", "Django", "Django REST Framework"],
+  
   learningStyle: "Self-directed & mentorship-style — no spoon-feeding, " +
                  "Pythonic code over translated C++/PHP habits",
-  activeIn: ["IEEE Student Chapter", "Skill Sprint (Marketing & Content)", "LoopLab Campus Ambassador"],
+                 
+  activeIn: ["IEEE Student Chapter", "Skill Sprint (Marketing & Content)", "Codrithm (Marketing Manager)"],
+  
   alsoDoes: "Writes LinkedIn content on the journey from C++ to Django",
+  
   openTo: ["Backend Development Internships", "Python/Django Junior Roles"]
 };
 
