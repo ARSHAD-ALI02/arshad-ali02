@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/github/followers/arshad-ali02?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" alt="Followers" />
 </p>
 
----
+
 
 ## 👋 About Me
 
@@ -35,7 +35,7 @@ const arshad = {
   content: "I write LinkedIn posts about my C++ to Django journey",
   openTo: ["Backend Development Internships", "Junior Python/Django Roles"]
 };
-
+'''
 ## 🛠️ Tech Stack
 
 <p align="center">
