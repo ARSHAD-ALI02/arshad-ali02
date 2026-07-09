@@ -235,6 +235,12 @@ open_to:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARSHAD-ALI02&theme=github_dark&utcOffset=5" alt="Commits by Hour" />
 </p>
 
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
