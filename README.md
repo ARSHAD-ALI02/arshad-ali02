@@ -24,18 +24,34 @@
 
 
 ## 👋 About Me
-
-
+/*
 const arshad = {
+  // Current academic stage
   role: "Computer Science Student (5th Semester)",
+
+  // Primary technical direction
   focus: "Backend development with Python, Django, and DRF",
+
+  // Strong base technologies
   foundations: ["C", "C++", "PHP", "MySQL"],
+
+  // Current learning roadmap
   currentlyLearning: ["Python", "Django", "Django REST Framework"],
-  community: ["IEEE Student Chapter", "Skill Sprint (Marketing & Content)", "LoopLab Campus Ambassador"],
+
+  // Active communities and roles
+  community: [
+    "IEEE Student Chapter",
+    "Skill Sprint (Marketing & Content)",
+    "LoopLab Campus Ambassador"
+  ],
+
+  // Personal branding/content focus
   content: "I write LinkedIn posts about my C++ to Django journey",
+
+  // Opportunities open for
   openTo: ["Backend Development Internships", "Junior Python/Django Roles"]
 };
-
+*/
 ## 🛠️ Tech Stack
 
 <p align="center">
