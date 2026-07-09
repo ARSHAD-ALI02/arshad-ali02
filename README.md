@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1021,100:1d2b64&text=Arshad%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20in%20Progress%20%20%7C%20%20Python%20%26%20Django%20REST%20Framework&descAlignY=58" alt="Header" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,100:1e3a8a&text=Arshad%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Python%20%26%20Django%20Developer&descAlignY=62" alt="Arshad Ali Header" />
+</p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function%20whoAmI%28%29%20%7B;%20%20return%20%22Arshad%20Ali%22%3B%7D;Backend%20Developer%20in%20Progress;C%2FC%2B%2B%20%26%20PHP%2FMySQL%20-%3E%20Python%20%26%20Django;Building%3A%20LinkedIn%20Post%20Scheduler%20API%20%28DRF%29;Open%20to%20Backend%20Dev%20Internships" alt="Typing Intro" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=14B8FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+(5th+Semester);Backend+Developer+in+Progress;Building+with+Python%2C+Django+%26+DRF;Open+to+Backend+Internships+%26+Junior+Roles" alt="Typing Intro" />
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN%20TO-Backend%20Dev%20Internships%20%26%20Junior%20Roles-22c55e?style=for-the-badge&logo=target&logoColor=white" alt="Open to roles" />
