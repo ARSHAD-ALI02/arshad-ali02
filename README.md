@@ -2,7 +2,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,100:1e1b4b&text=Arshad%20Ali&fontSize=62&fontColor=e5e7eb&fontAlignY=45&desc=Backend%20Developer%20Python%2FDjango%20%7C%20Marketing%20Executive%20%40Skill%20Sprint%20%7C%20Content%20Creator&descSize=23&descAlignY=72&animation=fadeIn"
     alt="Arshad Ali Header"
-    width="100%"
+    width="100%."
   />
 </p> 
 
