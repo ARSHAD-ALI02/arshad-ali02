@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-``` js
+
 const arshad = {
   role: "Computer Science Student (5th Semester)",
   focus: "Backend development with Python, Django, and DRF",
@@ -35,7 +35,7 @@ const arshad = {
   content: "I write LinkedIn posts about my C++ to Django journey",
   openTo: ["Backend Development Internships", "Junior Python/Django Roles"]
 };
-'''
+
 ## 🛠️ Tech Stack
 
 <p align="center">
