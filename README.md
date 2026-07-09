@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1021,100:1d2b64&text=Arshad%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Learner%20%7C%20Django%20Beginner%20%7C%20Open-Source%20Explorer&descAlignY=58&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1021,100:1d2b64&text=Arshad%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Learner%20%7C%20Future%20Software%20Engineer&descAlignY=58" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22%3B;const+focus+%3D+%22Python%2C+OOP%2C+DSA%2C+Django%22%3B;const+goal+%3D+%22Build+real-world+projects+%26+contribute+to+open+source%22%3B;%7D">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22%3B;const+focus+%3D+%22Python%2C+OOP%2C+DSA%2C+Django%22%3B;const+goal+%3D+%22Build+real-world+projects+%26+contribute+to+open+source%22%3B;%7D" alt="Typing intro" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22;%7D;Python+Learner+%7C+Future+Developer;Learning+OOP+%7C+DSA+%7C+Django;Open+to+Internships+%26+Collaborations">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22;%7D;Python+Learner+%7C+Future+Developer;Learning+OOP+%7C+DSA+%7C+Django;Open+to+Internships+%26+Collaborations" alt="Typing Intro" />
   </a>
 </p>
 
