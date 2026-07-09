@@ -153,22 +153,11 @@ open_to:
 </p>
 
 <p align="center">
-  <a href="https://github.com/ARSHAD-ALI02">
-    <img
-      height="180"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ARSHAD-ALI02&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshad-ali02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ARSHAD-ALI02">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=ARSHAD-ALI02&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=arshad-ali02&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 </p>
 
 <p align="center">
