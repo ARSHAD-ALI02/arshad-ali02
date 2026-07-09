@@ -136,19 +136,48 @@ open_to:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshad-ali02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-ali02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <a href="https://github.com/ARSHAD-ALI02">
+    <img
+      height="170"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=ARSHAD-ALI02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/ARSHAD-ALI02">
+    <img
+      height="170"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ARSHAD-ALI02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshad-ali02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ARSHAD-ALI02">
+    <img
+      height="180"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ARSHAD-ALI02&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=arshad-ali02&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <a href="https://github.com/ARSHAD-ALI02">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=ARSHAD-ALI02&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARSHAD-ALI02&theme=react-dark&bg_color=0d1117&color=14B8FF&line=14B8FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+<p align="center">
+  <img
+    width="100%."
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ARSHAD-ALI02&theme=react-dark&bg_color=0d1117&color=38bdf8&line=22d3ee&point=e2e8f0&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
 
 ## 🐍 Contribution Snake
 
