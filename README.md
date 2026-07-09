@@ -21,18 +21,33 @@
   <img src="https://img.shields.io/github/followers/arshad-ali02?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" alt="Followers" />
 </p>
 
-👋 About Me
+## 👾 About Me
 
-jsconst arshad = {
-  role: "Computer Science Student (5th Semester)",
-  foundation: ["C", "C++", "PHP", "MySQL"],
-  currentFocus: ["Python", "Django", "Django REST Framework"],
-  learningStyle: "Self-directed & mentorship-style — no spoon-feeding, " +
-                 "Pythonic code over translated C++/PHP habits",
-  activeIn: ["IEEE Student Chapter", "Skill Sprint (Marketing & Content)", "LoopLab Campus Ambassador"],
-  alsoDoes: "Writes LinkedIn content on the journey from C++ to Django",
-  openTo: ["Backend Development Internships", "Python/Django Junior Roles"]
-};
+```yaml
+name: Arshad Ali
+role: Computer Science Student | Backend Developer in Progress
+location: Lahore, Pakistan
+
+what_i_do:
+  - Build backend projects with Python, Django, and Django REST Framework
+  - Practice clean API design, serializers, viewsets, and routing
+  - Share my learning journey from C++/PHP to Python/Django on LinkedIn
+
+currently:
+  - Studying BS Computer Science (5th Semester)
+  - Building real-world backend projects and improving problem-solving
+  - Strengthening core CS concepts: DSA, OOP, and databases
+
+passionate_about:
+  - Backend development and scalable web applications
+  - Writing Pythonic code (not translated C++/PHP style)
+  - Community participation (IEEE, Skill Sprint, LoopLab)
+
+open_to:
+  - Backend Development Internships (On-site/Remote)
+  - Junior Python/Django roles
+  - Collaboration on student and open-source projects
+```
 
 ## 🛠️ Tech Stack
 
