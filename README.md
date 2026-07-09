@@ -29,9 +29,10 @@
 ```js
 const arshad = {
   role: "Python Learner",
-  learning: ["Python", "OOP", "DSA", "Django"],
+  focus: ["Python", "OOP", "DSA", "Django"],
+  strengths: ["Problem Solving", "Web Development", "Learning by Building"],
   collaboration: "Beginner-friendly open-source projects",
-  mission: "Grow by building practical, real-world solutions"
+  goal: "Become a strong software developer through practical, real-world projects"
 };
 ```
 
