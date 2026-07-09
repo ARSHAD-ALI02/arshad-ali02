@@ -223,6 +223,18 @@ open_to:
   />
 </p>
 
+## 📈 Deep GitHub Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARSHAD-ALI02&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARSHAD-ALI02&theme=github_dark" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARSHAD-ALI02&theme=github_dark" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARSHAD-ALI02&theme=github_dark&utcOffset=5" alt="Commits by Hour" />
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
