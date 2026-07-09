@@ -28,15 +28,13 @@
 ``` js
 const arshad = {
   role: "Computer Science Student (5th Semester)",
-  foundation: ["C", "C++", "PHP", "MySQL"],
-  currentFocus: ["Python", "Django", "Django REST Framework"],
-  learningStyle: "Self-directed & mentorship-style — no spoon-feeding, " +
-                 "Pythonic code over translated C++/PHP habits",
-  activeIn: ["IEEE Student Chapter", "Skill Sprint (Marketing & Content)", "LoopLab Campus Ambassador"],
-  alsoDoes: "Writes LinkedIn content on the journey from C++ to Django",
-  openTo: ["Backend Development Internships", "Python/Django Junior Roles"]
+  focus: "Backend development with Python, Django, and DRF",
+  foundations: ["C", "C++", "PHP", "MySQL"],
+  currentlyLearning: ["Python", "Django", "Django REST Framework"],
+  community: ["IEEE Student Chapter", "Skill Sprint (Marketing & Content)", "LoopLab Campus Ambassador"],
+  content: "I write LinkedIn posts about my C++ to Django journey",
+  openTo: ["Backend Development Internships", "Junior Python/Django Roles"]
 };
-```
 
 ## 🛠️ Tech Stack
 
