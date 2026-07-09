@@ -26,23 +26,13 @@
 ## 👋 About Me
 
 const arshad = {
-  role: "Computer Science Student (5th Semester)",
-
-  focus: "Backend development with Python, Django, and DRF",
-
-  foundations: ["C", "C++", "PHP", "MySQL"],
-
-  currentlyLearning: ["Python", "Django", "Django REST Framework"],
-
-  community: [
-    "IEEE Student Chapter",
-    "Skill Sprint (Marketing & Content)",
-    "LoopLab Campus Ambassador"
-  ],
-
-  content: "I write LinkedIn posts about my C++ to Django journey",
-
-  openTo: ["Backend Development Internships", "Junior Python/Django Roles"]
+ role: "Computer Science Student (5th Semester)",
+ focus: "Backend development with Python, Django, and DRF",
+ foundations: ["C", "C++", "PHP", "MySQL"],
+ currentlyLearning: ["Python", "Django", "Django REST Framework"],
+ community: ["IEEE Student Chapter", "Skill Sprint (Marketing & Content)", "LoopLab Campus Ambassador"],
+ content: "I write LinkedIn posts about my C++ to Django journey",
+ openTo: ["Backend Development Internships", "Junior Python/Django Roles"]
 };
 
 ## 🛠️ Tech Stack
