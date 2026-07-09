@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,100:1e3a8a&text=Arshad%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Python%20%26%20Django%20Developer&descAlignY=62" alt="Arshad Ali Header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,100:1e1b4b&text=Arshad%20Ali&fontSize=62&fontColor=e5e7eb&fontAlignY=45&desc=Backend%20Developer%20Python%2FDjango%20%7C%20Marketing%20Executive%20%40Skill%20Sprint%20%7C%20Content%20Creator&descSize=23&descAlignY=72&animation=fadeIn"
+    alt="Arshad Ali Header"
+    width="100%"
+  />
 </p> 
 
 <p align="center">
