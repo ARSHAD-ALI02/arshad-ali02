@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1021,100:1d2b64&text=Arshad%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Learner%20%7C%20Future%20Software%20Engineer&descAlignY=58" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1021,100:1d2b64&text=Arshad%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20in%20Progress%20%20%7C%20%20Python%20%26%20Django%20REST%20Framework&descAlignY=58" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22;%7D;Python+Learner+%7C+Future+Developer;Learning+OOP%2C+DSA%2C+and+Django;Open+to+Internships+%26+Junior+Roles">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22;%7D;Python+Learner+%7C+Future+Developer;Learning+OOP%2C+DSA%2C+and+Django;Open+to+Internships+%26+Junior+Roles" alt="Typing Intro" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function%20whoAmI%28%29%20%7B;%20%20return%20%22Arshad%20Ali%22%3B%7D;Backend%20Developer%20in%20Progress;C%2FC%2B%2B%20%26%20PHP%2FMySQL%20-%3E%20Python%20%26%20Django;Building%3A%20LinkedIn%20Post%20Scheduler%20API%20%28DRF%29;Open%20to%20Backend%20Dev%20Internships" alt="Typing Intro" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO-Internships%20%26%20Junior%20Roles-22c55e?style=for-the-badge&logo=target&logoColor=white" alt="Open to roles" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-Backend%20Dev%20Internships%20%26%20Junior%20Roles-22c55e?style=for-the-badge&logo=target&logoColor=white" alt="Open to roles" />
 </p>
 
 <p align="center">
@@ -25,40 +23,136 @@
 
 ---
 
-## 👾 About Me
-```js
+## 👋 About Me
+
+``` js
 const arshad = {
-  role: "Python Learner",
-  focus: ["Python", "OOP", "DSA", "Django"],
-  strengths: ["Problem Solving", "Web Development", "Learning by Building"],
-  collaboration: "Beginner-friendly open-source projects",
-  goal: "Become a strong software developer through practical, real-world projects"
+  role: "Computer Science Student (5th Semester)",
+  foundation: ["C", "C++", "PHP", "MySQL"],
+  currentFocus: ["Python", "Django", "Django REST Framework"],
+  learningStyle: "Self-directed & mentorship-style — no spoon-feeding, " +
+                 "Pythonic code over translated C++/PHP habits",
+  activeIn: ["IEEE Student Chapter", "Skill Sprint (Marketing & Content)", "LoopLab Campus Ambassador"],
+  alsoDoes: "Writes LinkedIn content on the journey from C++ to Django",
+  openTo: ["Backend Development Internships", "Python/Django Junior Roles"]
 };
 ```
 
-## 💻 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-0B4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,mysql,py,django,html,css,js,git,github,vscode,postman&perline=7" alt="Tech Stack" />
 </p>
 
-## 📊 GitHub Analytics
+## 🔭 Currently Building
+
+- 🚀 **LinkedIn Post Scheduler API** — a Django REST Framework backend with a `Post` model (status & platform choices, `DateTimeField`), custom `@action` endpoints, ViewSets, Serializers, and Routers
+- 📚 Working a self-imposed Python → Django curriculum: from raw HTTP APIs with `http.server` up to full DRF
+- 🌱 Rebuilding a dev environment from scratch and retraining muscle memory to write idiomatic Python, not translated C++/PHP
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ Multi-Vendor Gym Management System</h3>
+      <p><b>PHP · MySQL · Stripe · Bootstrap 5 · Chart.js</b></p>
+      <p>A role-based platform where gym owners manage trainers and membership plans, members pay through Stripe Checkout, and a super admin oversees vendor approvals and a 30/70 revenue split.</p>
+      <p>
+        <a href="https://github.com/ARSHAD-ALI02/multi-vendor-gym-with-stripe">
+          <img src="https://img.shields.io/badge/Source%20Code-View-171515?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 LinkedIn Post Scheduler API</h3>
+      <p><b>Python · Django · Django REST Framework</b></p>
+      <p>A DRF backend for scheduling and managing social posts — custom model choices, action endpoints, and full ViewSet/Serializer/Router wiring. Actively in progress.</p>
+      <p>
+        <a href="https://github.com/ARSHAD-ALI02/Django-Learning">
+          <img src="https://img.shields.io/badge/Source%20Code-View-171515?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 Bank Management System</h3>
+      <p><b>C++ · OOP</b></p>
+      <p>A console-based banking system built to put core OOP concepts — encapsulation, class design, inheritance — into practice.</p>
+      <p>
+        <a href="https://github.com/ARSHAD-ALI02/Bank-Management-System">
+          <img src="https://img.shields.io/badge/Source%20Code-View-171515?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧾 Tip Calculator & Bill Splitter</h3>
+      <p><b>HTML · Bootstrap 5 · JavaScript</b></p>
+      <p>A real-time bill splitter with instant DOM updates and inline validation.</p>
+      <p>
+        <a href="https://github.com/ARSHAD-ALI02/Tip-Calculator-Bill-Splitter">
+          <img src="https://img.shields.io/badge/Source%20Code-View-171515?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 📎 Pinned Repositories
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshad-ali02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/ARSHAD-ALI02/multi-vendor-gym-with-stripe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ARSHAD-ALI02&repo=multi-vendor-gym-with-stripe&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/ARSHAD-ALI02/Bank-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ARSHAD-ALI02&repo=Bank-Management-System&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ARSHAD-ALI02/Django-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ARSHAD-ALI02&repo=Django-Learning&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/ARSHAD-ALI02/Tip-Calculator-Bill-Splitter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ARSHAD-ALI02&repo=Tip-Calculator-Bill-Splitter&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+## 🌱 Beyond the Code
+
+- 🎓 IEEE Student Chapter member — active at society fairs and events
+- 📢 Marketing & content contributor at **Skill Sprint**, a student community
+- 🧭 Campus Ambassador at **LoopLab**
+- 🤖 Attended **GitHub Copilot Dev Days**
+- ✍️ Writes LinkedIn posts on tech, campus life, and the C++-to-Django journey
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arshad-ali02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-ali02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshad-ali02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshad-ali02&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-trophies.vercel.app/?username=arshad-ali02&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 </p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-ali02&theme=react-dark&bg_color=0d1117&color=14B8FF&line=14B8FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARSHAD-ALI02/arshad-ali02/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARSHAD-ALI02/arshad-ali02/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ARSHAD-ALI02/arshad-ali02/output/github-snake.svg" />
+  </picture>
+</p>
+
+## 📬 Let's Connect
+
+I'm learning backend development publicly and am open to internships or junior roles where I can continue growing. If you're hiring, mentoring, or just want to talk Python/Django — reach out.
+
+<p align="center">
+  <a href="https://linkedin.com/in/arshadd-ali/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:arshadalii8603@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2b64,100:0b1021&height=100&section=footer" />
