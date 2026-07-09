@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22;%7D;Python+Learner+%7C+Future+Developer;Learning+OOP+%7C+DSA+%7C+Django;Open+to+Internships+%26+Collaborations">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22;%7D;Python+Learner+%7C+Future+Developer;Learning+OOP+%7C+DSA+%7C+Django;Open+to+Internships+%26+Collaborations" alt="Typing Intro" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22;%7D;Python+Learner+%7C+Future+Developer;Learning+OOP%2C+DSA%2C+and+Django;Open+to+Internships+%26+Junior+Roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=14B8FF&center=true&vCenter=true&width=850&lines=function+whoAmI()+%7B;return+%22Arshad+Ali%22;%7D;Python+Learner+%7C+Future+Developer;Learning+OOP%2C+DSA%2C+and+Django;Open+to+Internships+%26+Junior+Roles" alt="Typing Intro" />
   </a>
 </p>
 
