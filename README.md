@@ -45,10 +45,10 @@ currently:
 passionate_about:
   - Backend development and scalable web applications
   - Writing Pythonic code (not translated C++/PHP style)
-  - Community participation (IEEE, Skill Sprint, LoopLab)
+  - Community participation (SkillSprint, LoopLab)
 
 open_to:
-  - Backend Development Internships (On-site/Remote)
+  - Backend Development Internships (On-site)
   - Junior Python/Django roles
   - Collaboration on student and open-source projects
 ```
