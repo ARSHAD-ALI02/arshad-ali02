@@ -45,7 +45,7 @@ currently:
 passionate_about:
   - Backend development and scalable web applications
   - Writing Pythonic code (not translated C++/PHP style)
-  - Community participation (SkillSprint, LoopLab)
+  - Community participation (SkillSprint, codrithm)
 
 open_to:
   - Backend Development Internships (On-site)
