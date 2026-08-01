@@ -143,7 +143,7 @@ open_to:
         <img src="https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/ARSHAD-ALI02/linkedin-post-scheduler-api">🔗 Repository</a><br/>
+        <a href="https://github.com/ARSHAD-ALI02/linkedin-post-scheduler-api">🔗 Repository</a><br/>   
         <img src="https://img.shields.io/github/stars/ARSHAD-ALI02/Django-Learning?style=flat&color=38bdf8" />
         <img src="https://img.shields.io/github/forks/ARSHAD-ALI02/Django-Learning?style=flat&color=22d3ee" />
       </p>
