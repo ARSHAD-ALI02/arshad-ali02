@@ -84,7 +84,7 @@ open_to:
       <p><b>Python · Django · Django REST Framework</b></p>
       <p>A DRF backend for scheduling and managing social posts — custom model choices, action endpoints, and full ViewSet/Serializer/Router wiring. Actively in progress.</p>
       <p>
-        <a href="https://github.com/ARSHAD-ALI02/Django-Learning">
+        <a href="https://github.com/ARSHAD-ALI02/linkedin-post-scheduler-api">
           <img src="https://img.shields.io/badge/Source%20Code-View-171515?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
